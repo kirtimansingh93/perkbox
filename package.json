@@ -1,0 +1,22 @@
+{
+  "name": "perkbox-tech-test",
+  "version": "1.0.0",
+  "description": "manual and automation testing project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirtimansingh93/perkbox.git"
+  },
+  "author": "Kirtiman Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kirtimansingh93/perkbox/issues"
+  },
+  "homepage": "https://github.com/kirtimansingh93/perkbox#readme",
+  "dependencies": {
+    "cypress": "^3.1.5"
+  }
+}
