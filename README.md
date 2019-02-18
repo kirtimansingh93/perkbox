@@ -118,3 +118,22 @@ Tests:
 ![Tests](images/tests.png)
 
 <br/>
+
+## Comments
+
+Resources used:
+  * https://www.guru99.com
+  * https://www.youtube.com
+  * https://docs.cypress.io/
+
+What went well:
+  * Learnt how to manual test and created a template to write my report.
+  * Practiced creating test scenarios and test cases from a user story.
+  * understood how end-to-end testing works and that tests must be independent of each other.
+  * Documented my process well.
+
+What can be improved:
+  * Found a lot of material on the web from which I can learn and practice more in order to become a better software tester.
+  * Cypress tests can be more robust by using a loop and more refactoring.
+  * Must improve upon my manual testing template to have more details.
+  * Need to improve in creating test scenario's and test cases.
