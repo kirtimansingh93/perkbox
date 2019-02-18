@@ -87,3 +87,34 @@ According to the manual test, the feature seems to be working as intended:
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![Test Summary](images/test-summary.png)
 
 <br/>
+
+## Automated-Testing
+
+Node Package Manager must be installed on your computer.  
+In the terminal, paste these commands individually:
+
+  ```
+    git clone https://github.com/kirtimansingh93/testing-practice.git
+    npm install
+    ./node_modules/.bin/cypress open
+  ```
+
+1.  The cypress suite will open automatically.
+2.  Open the directory in an editor of your choice.
+3.  Navigate to the integration folder within the cypress folder.
+4.  Delete the example folder which is within the integration folder.
+5.  Now there should only be four numbered tests in the integration folder.
+6.  Navigate to the cypress suite opens, either click run all tests or individually select the test you would like to run.  
+
+Alternatively, if you want to run the tests in your terminal and create a recording of the tests (which are saved as mp4 files in the cypress folder under videos), paste this command in your terminal:
+
+```
+./node_modules/.bin/cypress run
+```
+<br/>
+
+Tests:
+
+![Tests](images/tests.png)
+
+<br/>
