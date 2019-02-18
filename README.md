@@ -137,3 +137,4 @@ What can be improved:
   * Cypress tests can be more robust by using a loop and more refactoring.
   * Must improve upon my manual testing template to have more details.
   * Need to improve in creating test scenario's and test cases.
+  * I felt the need to write manual and automation tests for all of my scenario's even though the task was to do so for only two scenarios. 
