@@ -38,3 +38,52 @@
 | 4  | On account login page, the email field is pre-populated.  | - Verify that there is a form containing an email input field. <br/> - Verify whether email input is pre-populated with the correct email &nbsp; &nbsp; &nbsp; address. |
 
 <br/>
+
+## Manual-Testing
+
+Manual Test Report:
+![Manual Test Table](images/manual-test.png)
+<br/>
+
+Below are screenshots of the manual testing process:
+
+1. Login Homepage
+![Login Homepage](images/login-homepage.png)
+<br/>
+
+2. Login Without Email
+![Login Without Email](images/login-without-email.png)
+<br/>
+
+3. Login With Invalid Email
+![Login With Invalid Email](images/login-with-invalid-email.png)
+<br/>
+
+4. Login With Incorrect Email
+![Login With Incorrect Email](images/login-with-incorrect-email.png)
+<br/>
+
+5. Login With Correct Email
+![Login With Correct Email](images/login-with-correct-email.png)
+<br/>
+
+6. See List of Available Accounts
+![See List of Available Accounts](images/see-list-of-accounts.png)
+<br/>
+
+7. Select Account poojatest2
+![Select Account poojatest2](images/select-account-poojatest2.png)
+<br/>
+
+8. Account login page is pre-populated with pooja@perkbox.co.uk
+![poojatest2 Account is pre-populated with pooja@perkbox.co.uk](images/poojatest2-account-login-page-with-pre-populated-email.png)
+
+<br/>
+
+According to the manual test, the feature seems to be working as intended:
+
+<br/>  
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![Test Summary](images/test-summary.png)
+
+<br/>
